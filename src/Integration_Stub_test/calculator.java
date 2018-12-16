@@ -10,7 +10,7 @@ public class calculator {
         //this.add = new additionStub();
     }
 
-    public additionStub add(){
+    public addition add(){
         return this.add;
     }
 
